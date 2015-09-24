@@ -1,2 +1,2 @@
-# BlumbangReksaAlpha
-BlumbangReksa Alpa Firmware
+# BlumbangReksa Alpha Firmware
+Deskripsi
